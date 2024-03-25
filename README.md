@@ -1,2 +1,2 @@
 # WarCardGame
-java war card game using objects and enums
+java war card game using objects, enums and the Comparable interface
